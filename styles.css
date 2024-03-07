@@ -1,0 +1,78 @@
+body{
+  background-image:url(https://media.istockphoto.com/id/667575964/vector/binary-code-vector-halftone-texture.jpg?s=612x612&w=0&k=20&c=txOqxdK7kySnklQ9rTKdT81qjo_yD2geU-pRV655z4E=);
+  font-family:perpetua;
+  color:rgb;
+  font-size:24px;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+  background-attachment:fixed;
+  text-color:
+}
+
+h1,p{
+  text-align:center;
+}
+h1{
+  margin-top:2rem;
+  margin-bottom:0;  
+}
+p{
+  margin-top:0;
+  margin-bottom:2rem;
+}
+.established{
+  font-style:italic;
+}
+form{
+  backgorund-color:rgba;
+  width:60vw;
+  max-width:700px;
+  min-width:350px;
+  margin: 0 auto;
+  padding:15px 15px 25px 15px;
+}
+label{
+  display:block;
+}
+fieldset{
+  border:none;
+}
+input,select,textarea{
+  width:100%;
+  margin:0.1em 0 1em 0;
+  min-height:2em;
+  font-size:0.67em;
+}
+input,select{
+  border-radius:5px;
+}
+input[type="submit"]{
+  background-color:rgb;
+  font-size:1.33rem;
+  min-height:2.5em;
+}
+.inline{
+  width:unset;
+  margin:0 0.5em; 0 0;
+  min-height:unset;
+  verticle-align:middle;
+}
+
+input[type="submit"]:hover{
+border:2px solid rgb;
+cursor:pointer;
+outline:none !important;
+}
+textarea{
+  min-height:6.33em;
+  resize:verticle;
+}
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="number"]focus,
+select:focus{
+  box-shadow:0 0 7px rgb;
+}
+
+
+
